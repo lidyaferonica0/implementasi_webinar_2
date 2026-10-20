@@ -1,0 +1,4 @@
+jumlah_skenario,waktu_sequential_detik,waktu_parallel_detik,speedup,efisiensi_parallel_persen,throughput_sequential,throughput_parallel,risiko_sequential_persen,risiko_parallel_persen,hasil_konsisten
+100000,0.052678,0.904376,0.0582,1.46,1898318.47,110573.43,3.176,3.186,False
+200000,0.09765,0.811282,0.1204,3.01,2048131.08,246523.46,3.1985,3.1725,False
+400000,0.189902,0.812098,0.2338,5.85,2106344.05,492551.15,3.2155,3.161,False
